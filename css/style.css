@@ -35,10 +35,10 @@ nav{
     display: flex;
     align-items:center;
     justify-content: space-around;
-    padding: 10px 30px;
     z-index: 99;
     position: absolute;
     width: 100%;
+    top: 0;
 }
 
 nav ul{
